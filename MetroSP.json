@@ -1,0 +1,3072 @@
+[{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a39"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "PPQ",
+  "Estação": "Armênia",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a3a"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "LUZ",
+  "Estação": "Luz",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a3b"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "TRD",
+  "Estação": "Tiradentes",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a3c"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "CON",
+  "Estação": "Conceição",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a3d"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "JAB",
+  "Estação": "Jabaquara-Comitê Paralímpico Brasileiro",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a3e"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "JQM",
+  "Estação": "São Joaquim",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Liberdade"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a3f"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "VGO",
+  "Estação": "Vergueiro",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Liberdade"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a40"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "CDU",
+  "Estação": "Carandiru",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a41"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "JPA",
+  "Estação": "Jardim São Paulo-Ayrton Senna",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Santana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a42"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "TTE",
+  "Estação": "Portuguesa-Tietê",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a43"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "SAN",
+  "Estação": "Santana",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a44"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "ARV",
+  "Estação": "Praça da Árvore",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Saúde"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a45"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "JUD",
+  "Estação": "São Judas",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Saúde"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a46"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "SAU",
+  "Estação": "Saúde-Ultrafarma",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Saúde"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a47"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "LIB",
+  "Estação": "Japão-Liberdade",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Sé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a48"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "BTO",
+  "Estação": "São Bento",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Sé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a49"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "PSE",
+  "Estação": "Sé",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Sé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a4a"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "PIG",
+  "Estação": "Parada Inglesa",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Tucuruvi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a4b"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "TUC",
+  "Estação": "Tucuruvi",
+  "Município": "São Paulo",
+  "Posição": "Parcialmente subterrâneo",
+  "Distrito": "Tucuruvi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a4c"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "ANR",
+  "Estação": "Ana Rosa",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a4d"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "PSO",
+  "Estação": "Paraíso",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a4e"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "SCZ",
+  "Estação": "Santa Cruz",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a4f"
+  },
+  "Linha": "LINHA 01",
+  "Cor": "AZUL",
+  "Sigla": "VMN",
+  "Estação": "Vila Mariana",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a50"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "ANF",
+  "Estação": "Anália Franco",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Água Rasa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a51"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "SCA",
+  "Estação": "Santa Clara",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Água Rasa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a52"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "FND",
+  "Estação": "Fernão Dias",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Cangaíba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a53"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "TIC",
+  "Estação": "Gabriela Mistral",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Cangaíba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a54"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "GUI",
+  "Estação": "Guilherme Giorgi",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Carrão"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a55"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "SIL",
+  "Estação": "Santa Isabel",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Carrão"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a56"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "IMG",
+  "Estação": "Santos-Imigrantes",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Curso"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a57"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "AIP",
+  "Estação": "Alto do Ipiranga",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Ipiranga"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a58"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "SAC",
+  "Estação": "Sacomã",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Ipiranga"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a59"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "BGD",
+  "Estação": "Brigadeiro",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jardim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a5a"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "CLI",
+  "Estação": "Clínicas",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jardim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a5b"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "SNC",
+  "Estação": "Consolação",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jardim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a5c"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "TRI",
+  "Estação": "Trianon-Masp",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jardim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a5d"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "PEF",
+  "Estação": "Penha de França",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Penha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a5e"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "PEN",
+  "Estação": "Penha-Lojas Besni",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Penha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a5f"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "CRC",
+  "Estação": "Cerro Corá",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Perdizes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a60"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "SUM",
+  "Estação": "Santuário Nossa Senhora de Fátima-Sumaré",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Perdizes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a61"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "VMD",
+  "Estação": "Vila Madalena",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Perdizes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a62"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "PGD",
+  "Estação": "Ponte Grande",
+  "Município": "Guarulhos",
+  "Posição": "Subterrâneo",
+  "Distrito": "Ponte Grande"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a63"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "TTI",
+  "Estação": "Tamanduateí",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Tamanduateí"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a64"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "DUT",
+  "Estação": "Dutra",
+  "Município": "Guarulhos",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Augusta"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a65"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "VFO",
+  "Estação": "Vila Formosa",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Formosa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a66"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "ANR",
+  "Estação": "Ana Rosa",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a67"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "CKB",
+  "Estação": "Chácara Klabin",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a68"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "PSO",
+  "Estação": "Paraíso",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a69"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "ARI",
+  "Estação": "Aricanduva",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Matilde"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a6a"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "OFT",
+  "Estação": "Orfanato",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Prudente"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a6b"
+  },
+  "Linha": "LINHA 02",
+  "Cor": "VERDE",
+  "Sigla": "VPT",
+  "Estação": "Vila Prudente",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Prudente"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a6c"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "ARTE",
+  "Estação": "Artur Alvim",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Artur Alvim"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a6d"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "BFU",
+  "Estação": "Palmeiras-Barra Funda",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a6e"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "BEL",
+  "Estação": "Belém",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Belém"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a6f"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "BAS",
+  "Estação": "Brás",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Brás"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a70"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "BRE",
+  "Estação": "Bresser-Mooca",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Brás"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a71"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "ITQ",
+  "Estação": "Corinthians-Itaquera",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaquera"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a72"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "PCA",
+  "Estação": "Patriarca-Vila Ré",
+  "Município": "São Paulo",
+  "Posição": "Parcialmente elevado",
+  "Distrito": "Penha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a73"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "PEN",
+  "Estação": "Penha-Lojas Besni",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Penha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a74"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "REP",
+  "Estação": "República",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "República"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a75"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "GBU",
+  "Estação": "Anhangabaú",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "República e Sé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a76"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "DEO",
+  "Estação": "Marechal Deodoro",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Santa Cecília"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a77"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "CEC",
+  "Estação": "Santa Cecília",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Santa Cecília"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a78"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "PDS",
+  "Estação": "Pedro II",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Sé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a79"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "PSE",
+  "Estação": "Sé",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Sé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a7a"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "CAR",
+  "Estação": "Carrão-Assaí Atacadista",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Tatuapé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a7b"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "TAT",
+  "Estação": "Tatuapé",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Tatuapé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a7c"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "VPA",
+  "Estação": "Guilhermina-Esperança",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Vila Matilde"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a7d"
+  },
+  "Linha": "LINHA 03",
+  "Cor": "VERMELHA",
+  "Sigla": "VTD",
+  "Estação": "Vila Matilde",
+  "Município": "São Paulo",
+  "Posição": "No nível",
+  "Distrito": "Vila Matilde"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a7e"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "LUZ",
+  "Estação": "Luz",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a7f"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "BUT",
+  "Estação": "Butantã",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Butantã"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a80"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "HIG",
+  "Estação": "Higienópolis-Mackenzie",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Consolação"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a81"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "PTA",
+  "Estação": "Paulista-Pernambucanas",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Consolação"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a82"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "FRE",
+  "Estação": "Oscar Freire",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Jardim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a83"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "SPO",
+  "Estação": "São Paulo-Morumbi",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Morumbi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a84"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "JCK",
+  "Estação": "Chácara do Jockey",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Parque Santos Dumont"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a85"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "FAL",
+  "Estação": "Faria Lima",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Pinheiros"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a86"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "FRA",
+  "Estação": "Fradique Coutinho",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Pinheiros"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a87"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "PIN",
+  "Estação": "Pinheiros",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Pinheiros"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a88"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "REP",
+  "Estação": "República",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "República"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a89"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "TDS",
+  "Estação": "Taboão da Serra",
+  "Município": "Taboão da Serra",
+  "Posição": "Subterrâneo",
+  "Distrito": "Taboão da Serra"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a8a"
+  },
+  "Linha": "LINHA 04",
+  "Cor": "AMARELA",
+  "Sigla": "VSO",
+  "Estação": "Vila Sônia-Professora Elisabeth Tenreiro",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Vila Sônia"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a8b"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "CPB",
+  "Estação": "Campo Belo",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Campo Belo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a8c"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "CPL",
+  "Estação": "Campo Limpo",
+  "Município": "São Paulo",
+  "Posição": "Elevada",
+  "Distrito": "Campo Limpo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a8d"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "CPR",
+  "Estação": "Capão Redondo",
+  "Município": "São Paulo",
+  "Posição": "Elevada",
+  "Distrito": "Capão Redondo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a8e"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "SER",
+  "Estação": "AACD-Servidor",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Moema"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a8f"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "ECT",
+  "Estação": "Eucaliptos",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Moema"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a90"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "MOE",
+  "Estação": "Moema",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Moema"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a91"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "APN",
+  "Estação": "Adolfo Pinheiro",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a92"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "ABV",
+  "Estação": "Alto da Boa Vista",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a93"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "BGA",
+  "Estação": "Borba Gato",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a94"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "BRK",
+  "Estação": "Brooklin",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a95"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "LTR",
+  "Estação": "Largo Treze",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a96"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "STA",
+  "Estação": "Santo Amaro",
+  "Município": "São Paulo",
+  "Posição": "Elevada",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a97"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "GGR",
+  "Estação": "Giovanni Gronchi",
+  "Município": "São Paulo",
+  "Posição": "Elevada",
+  "Distrito": "Vila Andrade"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a98"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "VBE",
+  "Estação": "Vila das Belezas",
+  "Município": "São Paulo",
+  "Posição": "Elevada",
+  "Distrito": "Vila Andrade"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a99"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "CKB",
+  "Estação": "Chácara Klabin",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a9a"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "HSP",
+  "Estação": "Hospital São Paulo",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a9b"
+  },
+  "Linha": "LINHA 05",
+  "Cor": "LILÁS",
+  "Sigla": "SCZ",
+  "Estação": "Santa Cruz",
+  "Município": "São Paulo",
+  "Posição": "Subterrânea",
+  "Distrito": "Vila Mariana"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a9c"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "ABR",
+  "Estação": "Água Branca",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a9d"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "SMA",
+  "Estação": "Santa Marina",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a9e"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "BIX",
+  "Estação": "14 Bis–Saracura",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Bela Vista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98a9f"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "TZM",
+  "Estação": "Bela Vista",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Bela Vista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa0"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "BOM",
+  "Estação": "Brasilândia",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Brasilândia"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa1"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "PAC",
+  "Estação": "FAAP–Pacaembu",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Consolação"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa2"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "MKZ",
+  "Estação": "Higienópolis-Mackenzie",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Consolação"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa3"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "FGO",
+  "Estação": "Freguesia do Ó",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Freguesia do Ó"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa4"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "ELA",
+  "Estação": "Itaberaba–Hospital Vila Penteado",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Freguesia do Ó"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa5"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "JPP",
+  "Estação": "João Paulo I",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Freguesia do Ó"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa6"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "VCS",
+  "Estação": "Maristela",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Freguesia do Ó"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa7"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "JQM",
+  "Estação": "São Joaquim",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Liberdade"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa8"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "PZE",
+  "Estação": "Perdizes",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Perdizes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aa9"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "PUC",
+  "Estação": "PUC–Cardoso de Almeida",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Perdizes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aaa"
+  },
+  "Linha": "LINHA 06",
+  "Cor": "LARANJA",
+  "Sigla": "SPA",
+  "Estação": "SESC–Pompeia",
+  "Município": "São Paulo",
+  "Posição": "Subterrâneo",
+  "Distrito": "Perdizes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aab"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "ABR",
+  "Estação": "Água Branca",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aac"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "BFU",
+  "Estação": "Palmeiras–Barra Funda",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aad"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "CAI",
+  "Estação": "Caieiras",
+  "Município": "Caieiras",
+  "Posição": "Elevado",
+  "Distrito": "Caieiras"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aae"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "CLP",
+  "Estação": "Campo Limpo Paulista",
+  "Município": "Campo Limpo Paulista",
+  "Posição": "Elevado",
+  "Distrito": "Campo Limpo Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aaf"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "BTJ",
+  "Estação": "Botujuru",
+  "Município": "Campo Limpo Paulista",
+  "Posição": "Elevado",
+  "Distrito": "Francisco Morato"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab0"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "FMO",
+  "Estação": "Francisco Morato",
+  "Município": "Francisco Morato",
+  "Posição": "Elevado",
+  "Distrito": "Francisco Morato"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab1"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "BFI",
+  "Estação": "Baltazar Fidélis",
+  "Município": "Franco da Rocha",
+  "Posição": "Elevado",
+  "Distrito": "Franco da Rocha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab2"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "FDR",
+  "Estação": "Franco da Rocha",
+  "Município": "Franco da Rocha",
+  "Posição": "Elevado",
+  "Distrito": "Franco da Rocha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab3"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "JRG",
+  "Estação": "Jaraguá",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jaraguá"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab4"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "JUN",
+  "Estação": "Jundiaí",
+  "Município": "Jundiaí",
+  "Posição": "Elevado",
+  "Distrito": "Jundiaí"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab5"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "LPA",
+  "Estação": "Lapa",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Lapa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab6"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "PQR",
+  "Estação": "Piqueri",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Lapa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab7"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "PRU",
+  "Estação": "Perus",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Perus"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab8"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "VAU",
+  "Estação": "Vila Aurora",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Perus"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ab9"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "PRT",
+  "Estação": "Pirituba",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Pirituba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aba"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "VCL",
+  "Estação": "Vila Clarice",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Pirituba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98abb"
+  },
+  "Linha": "LINHA 07",
+  "Cor": "RUBI",
+  "Sigla": "VPL",
+  "Estação": "Várzea Paulista",
+  "Município": "Várzea Paulista",
+  "Posição": "Elevado",
+  "Distrito": "Várzea Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98abc"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "BFU",
+  "Estação": "Palmeiras–Barra Funda",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98abd"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "AJO",
+  "Estação": "Antônio João",
+  "Município": "Barueri",
+  "Posição": "Elevado",
+  "Distrito": "Barueri"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98abe"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "BRU",
+  "Estação": "Barueri",
+  "Município": "Barueri",
+  "Posição": "Elevado",
+  "Distrito": "Barueri"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98abf"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "JBE",
+  "Estação": "Jardim Belval",
+  "Município": "Barueri",
+  "Posição": "Elevado",
+  "Distrito": "Barueri"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac0"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "JSI",
+  "Estação": "Jardim Silveira",
+  "Município": "Barueri",
+  "Posição": "Elevado",
+  "Distrito": "Barueri"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac1"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "JPR",
+  "Estação": "Júlio Prestes",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac2"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "CPB",
+  "Estação": "Carapicuíba",
+  "Município": "Carapicuíba",
+  "Posição": "Elevado",
+  "Distrito": "Carapicuíba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac3"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "STE",
+  "Estação": "Santa Terezinha",
+  "Município": "Carapicuíba",
+  "Posição": "Elevado",
+  "Distrito": "Carapicuíba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac4"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "ECD",
+  "Estação": "Engenheiro Cardoso",
+  "Município": "Itapevi",
+  "Posição": "Elevado",
+  "Distrito": "Itapevi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac5"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "IPV",
+  "Estação": "Itapevi",
+  "Município": "Itapevi",
+  "Posição": "Elevado",
+  "Distrito": "Itapevi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac6"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "JDI",
+  "Estação": "Jandira",
+  "Município": "Jandira",
+  "Posição": "Elevado",
+  "Distrito": "Jandira"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac7"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "SCO",
+  "Estação": "Sagrado Coração",
+  "Município": "Jandira",
+  "Posição": "Elevado",
+  "Distrito": "Jandira"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac8"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "DMO",
+  "Estação": "Domingos de Moraes",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Lapa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ac9"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "LAP",
+  "Estação": "Lapa - Senac",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Lapa"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aca"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "CSA",
+  "Estação": "Comandante Sampaio",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98acb"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "GMC",
+  "Estação": "General Miguel Costa",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98acc"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "OSA",
+  "Estação": "Osasco",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98acd"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "PAL",
+  "Estação": "Presidente Altino",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ace"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "QTU",
+  "Estação": "Quitaúna",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98acf"
+  },
+  "Linha": "LINHA 08",
+  "Cor": "DIAMANTE",
+  "Sigla": "ILE",
+  "Estação": "Imperatriz Leopoldina",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Vila Leopoldina"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad0"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "CEA",
+  "Estação": "Ceasa",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Butantã"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad1"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "USP",
+  "Estação": "Cidade Universitária",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Butantã"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad2"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "MVN",
+  "Estação": "Bruno Covas/Mendes–Vila Natal",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Grajaú"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad3"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "GRA",
+  "Estação": "Grajaú",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Grajaú"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad4"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "AUT",
+  "Estação": "Autódromo",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Interlagos"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad5"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "INT",
+  "Estação": "Primavera–Interlagos",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Interlagos"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad6"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "JAG",
+  "Estação": "Vila Lobos–Jaguaré",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jaguaré"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad7"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "MRB",
+  "Estação": "Morumbi",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Morumbi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad8"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "OSA",
+  "Estação": "Osasco",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ad9"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "PAL",
+  "Estação": "Presidente Altino",
+  "Município": "Osasco",
+  "Posição": "Elevado",
+  "Distrito": "Osasco"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ada"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "CJD",
+  "Estação": "Cidade Jardim",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Pinheiros"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98adb"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "HBR",
+  "Estação": "Hebraica–Rebouças",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Pinheiros"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98adc"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "PIN",
+  "Estação": "Pinheiros",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Pinheiros"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98add"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "GJT",
+  "Estação": "Granja Julieta",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ade"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "JOD",
+  "Estação": "João Dias",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98adf"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "JUR",
+  "Estação": "Jurubatuba",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae0"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "SAM",
+  "Estação": "Santo Amaro",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Santo Amaro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae1"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "SOC",
+  "Estação": "Socorro",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Socorro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae2"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "VAG",
+  "Estação": "Varginha",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Varginha"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae3"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "BRR",
+  "Estação": "Berrini",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Vila Progredior"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae4"
+  },
+  "Linha": "LINHA 09",
+  "Cor": "ESMERALDA",
+  "Sigla": "VOL",
+  "Estação": "Vila Olímpia",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Vila Progredior"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae5"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "BFU",
+  "Estação": "Palmeiras-Barra Funda",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae6"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "LUZ",
+  "Estação": "Luz",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae7"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "BAS",
+  "Estação": "Brás",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Brás"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae8"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "CPV",
+  "Estação": "Capuava",
+  "Município": "Mauá",
+  "Posição": "Elevado",
+  "Distrito": "Capuava"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98ae9"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "IPG",
+  "Estação": "Ipiranga",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Ipiranga"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aea"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "GPT",
+  "Estação": "Guapituba",
+  "Município": "Mauá",
+  "Posição": "Elevado",
+  "Distrito": "Maua"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aeb"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "MAU",
+  "Estação": "Mauá",
+  "Município": "Mauá",
+  "Posição": "Elevado",
+  "Distrito": "Mauá"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aec"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "MOC",
+  "Estação": "Juventus–Mooca",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Mooca"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aed"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "RPI",
+  "Estação": "Ribeirão Pires–Antônio Bespalec",
+  "Município": "Ribeirão Pires",
+  "Posição": "Elevado",
+  "Distrito": "Ribeirão Pires"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aee"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "RGS",
+  "Estação": "Rio Grande da Serra",
+  "Município": "Rio Grande da Serra",
+  "Posição": "Elevado",
+  "Distrito": "Rio Grande da Serra"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aef"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "SAN",
+  "Estação": "Prefeito Celso Daniel–Santo André",
+  "Município": "Santo André",
+  "Posição": "Elevado",
+  "Distrito": "Santo André"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af0"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "PSA",
+  "Estação": "Prefeito Saladino",
+  "Município": "Santo André",
+  "Posição": "Elevado",
+  "Distrito": "Santo André"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af1"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "UTG",
+  "Estação": "Utinga",
+  "Município": "Santo André",
+  "Posição": "Elevado",
+  "Distrito": "Santo André"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af2"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "SCS",
+  "Estação": "São Caetano do Sul–Prefeito Walter Braido",
+  "Município": "São Caetano do Sul",
+  "Posição": "Elevado",
+  "Distrito": "São Caetano"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af3"
+  },
+  "Linha": "LINHA 10",
+  "Cor": "TURQUESA",
+  "Sigla": "TMD",
+  "Estação": "Tamanduateí",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Tamanduateí"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af4"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "BFU",
+  "Estação": "Palmeiras–Barra Funda",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af5"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "LUZ",
+  "Estação": "Luz",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af6"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "BAS",
+  "Estação": "Brás",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Brás"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af7"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "EST",
+  "Estação": "Estudantes",
+  "Município": "Mogi das Cruzes",
+  "Posição": "Elevado",
+  "Distrito": "Estudantes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af8"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "AGN",
+  "Estação": "Antônio Gianetti Neto",
+  "Município": "Ferraz de Vasconcelos",
+  "Posição": "Elevado",
+  "Distrito": "Ferraz de Vasconcelos"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98af9"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "FVC",
+  "Estação": "Ferraz de Vasconcelos",
+  "Município": "Ferraz de Vasconcelos",
+  "Posição": "Elevado",
+  "Distrito": "Ferraz de Vasconcelos"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98afa"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "GUA",
+  "Estação": "Guaianases",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Guaianases"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98afb"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "ITQ",
+  "Estação": "Corinthians-Itaquera",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaquera"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98afc"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "DBO",
+  "Estação": "Dom Bosco",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaquera"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98afd"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "JBO",
+  "Estação": "José Bonifácio",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaquera"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98afe"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "BCB",
+  "Estação": "Braz Cubas",
+  "Município": "Mogi das Cruzes",
+  "Posição": "Elevado",
+  "Distrito": "Mogi das Cruzes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98aff"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "JPB",
+  "Estação": "Jundiapeba",
+  "Município": "Mogi das Cruzes",
+  "Posição": "Elevado",
+  "Distrito": "Mogi das Cruzes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b00"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "MDC",
+  "Estação": "Mogi das Cruzes",
+  "Município": "Mogi das Cruzes",
+  "Posição": "Elevado",
+  "Distrito": "Mogi das Cruzes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b01"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "CVN",
+  "Estação": "Calmon Viana",
+  "Município": "Poá",
+  "Posição": "Elevado",
+  "Distrito": "Poá"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b02"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "POÁ",
+  "Estação": "Poá",
+  "Município": "Poá",
+  "Posição": "Elevado",
+  "Distrito": "Poá"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b03"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "SUZ",
+  "Estação": "Suzano",
+  "Município": "Suzano",
+  "Posição": "Elevado",
+  "Distrito": "Suzano"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b04"
+  },
+  "Linha": "LINHA 11",
+  "Cor": "CORAL",
+  "Sigla": "TAT",
+  "Estação": "Tatuapé",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Tatuapé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b05"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "BAS",
+  "Estação": "Brás",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Brás"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b06"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "ERM",
+  "Estação": "Comendador Ermelino",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Ermelino Matarazzo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b07"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "EGO",
+  "Estação": "Engenheiro Goulart",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Ermelino Matarazzo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b08"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "JHE",
+  "Estação": "Jardim Helena–Vila Mara",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Ermelino Matarazzo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b09"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "USL",
+  "Estação": "USP Leste",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Ermelino Matarazzo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b0a"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "ITI",
+  "Estação": "Itaim Paulista",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b0b"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "JRO",
+  "Estação": "Jardim Romano",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaim Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b0c"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "ARC",
+  "Estação": "Aracaré",
+  "Município": "Itaquaquecetuba",
+  "Posição": "Elevado",
+  "Distrito": "Itaquaquecetuba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b0d"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "EMF",
+  "Estação": "Engenheiro Manoel Feio",
+  "Município": "Itaquaquecetuba",
+  "Posição": "Elevado",
+  "Distrito": "Itaquaquecetuba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b0e"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "IQC",
+  "Estação": "Itaquaquecetuba",
+  "Município": "Itaquaquecetuba",
+  "Posição": "Elevado",
+  "Distrito": "Itaquaquecetuba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b0f"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "CVN",
+  "Estação": "Calmon Viana",
+  "Município": "Poá",
+  "Posição": "Elevado",
+  "Distrito": "Poá"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b10"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "SMP",
+  "Estação": "São Miguel Paulista",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Miguel Paulista"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b11"
+  },
+  "Linha": "LINHA 12",
+  "Cor": "SAFIRA",
+  "Sigla": "TAT",
+  "Estação": "Tatuapé",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Tatuapé"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b12"
+  },
+  "Linha": "LINHA 13",
+  "Cor": "JADE",
+  "Sigla": "BFU",
+  "Estação": "Palmeiras–Barra Funda",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Barra Funda"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b13"
+  },
+  "Linha": "LINHA 13",
+  "Cor": "JADE",
+  "Sigla": "LUZ",
+  "Estação": "Luz",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Bom Retiro"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b14"
+  },
+  "Linha": "LINHA 13",
+  "Cor": "JADE",
+  "Sigla": "BAS",
+  "Estação": "Brás",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Brás"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b15"
+  },
+  "Linha": "LINHA 13",
+  "Cor": "JADE",
+  "Sigla": "AGU",
+  "Estação": "Aeroporto–Guarulhos",
+  "Município": "Guarulhos",
+  "Posição": "Elevado",
+  "Distrito": "Guarulhos"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b16"
+  },
+  "Linha": "LINHA 13",
+  "Cor": "JADE",
+  "Sigla": "GCE",
+  "Estação": "Guarulhos–Cecap",
+  "Município": "Guarulhos",
+  "Posição": "Elevado",
+  "Distrito": "Guarulhos"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b17"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "CDT",
+  "Estação": "Cidade Tiradentes",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Cidade Tiradentes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b18"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "HCT",
+  "Estação": "Hospital Cidade Tiradentes",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Cidade Tiradentes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b19"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "MBK",
+  "Estação": "Jardim Pedra Branca",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Cidade Tiradentes"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b1a"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "JEQ",
+  "Estação": "Boa Esperança",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Iguatemi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b1b"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "JPS",
+  "Estação": "Jacu-Pêssego",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Iguatemi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b1c"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "ESM",
+  "Estação": "Jardim Marilu",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Iguatemi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b1d"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "IPG",
+  "Estação": "Ipiranga",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Ipiranga"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b1e"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "CAD",
+  "Estação": "Camilo Haddad",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Lucas"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b1f"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "ORA",
+  "Estação": "Oratório",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Lucas"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b20"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "SLU",
+  "Estação": "São Lucas",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Lucas"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b21"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "FJT",
+  "Estação": "Fazenda da Juta",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Mateus"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b22"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "IGT",
+  "Estação": "Jardim Colonial",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Mateus"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b23"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "SMT",
+  "Estação": "São Mateus",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "São Mateus"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b24"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "JPL",
+  "Estação": "Jardim Planalto",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Sapopemba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b25"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "SEIVA",
+  "Estação": "Sapopemba",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Sapopemba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b26"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "VTL",
+  "Estação": "Vila Tolstói",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Sapopemba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b27"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "DE",
+  "Estação": "Vila União",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Sapopemba"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b28"
+  },
+  "Linha": "LINHA 15",
+  "Cor": "PRATA",
+  "Sigla": "VPM",
+  "Estação": "Vila Prudente",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Vila Prudente"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b29"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "BPA",
+  "Estação": "Brooklin Paulista",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Brooklin"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b2a"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "CGN",
+  "Estação": "Aeroporto de Congonhas",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Campo Belo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b2b"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "CBM",
+  "Estação": "Campo Belo",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Campo Belo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b2c"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "VJD",
+  "Estação": "Vereador José Diniz",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Campo Belo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b2d"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "JAP",
+  "Estação": "Washington Luís",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Campo Belo"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b2e"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "CZD",
+  "Estação": "Chucri Zaidan",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaim Bibi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b2f"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "VCD",
+  "Estação": "Vila Cordeiro",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Itaim Bibi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b30"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "CLE",
+  "Estação": "Cidade Leonor",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b31"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "HSB",
+  "Estação": "Hospital Sabóia",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b32"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "JBM",
+  "Estação": "Jabaquara-Comitê Paralímpico Brasileiro",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b33"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "BAB",
+  "Estação": "Vila Babilônia",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b34"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "VPI",
+  "Estação": "Vila Paulista",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Jabaquara"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b35"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "AMR",
+  "Estação": "Américo Maurano",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Morumbi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b36"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "MOB",
+  "Estação": "Morumbi",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Morumbi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b37"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "PSP",
+  "Estação": "Paraisópolis",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Morumbi"
+},
+{
+  "_id": {
+    "$oid": "68d9623a8aeb920ec3d98b38"
+  },
+  "Linha": "LINHA 17",
+  "Cor": "OURO",
+  "Sigla": "PNB",
+  "Estação": "Panamby",
+  "Município": "São Paulo",
+  "Posição": "Elevado",
+  "Distrito": "Vila Andrade"
+}]
