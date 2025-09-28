@@ -1,0 +1,257 @@
+Linha;Cor;Sigla;Estação;Município;Posição;Distrito
+LINHA 01;AZUL;PPQ;Armênia;São Paulo;Elevado;Bom Retiro
+LINHA 01;AZUL;LUZ;Luz;São Paulo;Subterrâneo;Bom Retiro
+LINHA 01;AZUL;TRD;Tiradentes;São Paulo;Subterrâneo;Bom Retiro
+LINHA 01;AZUL;CON;Conceição;São Paulo;Subterrâneo;Jabaquara
+LINHA 01;AZUL;JAB;Jabaquara-Comitê Paralímpico Brasileiro;São Paulo;Subterrâneo;Jabaquara
+LINHA 01;AZUL;JQM;São Joaquim;São Paulo;Subterrâneo;Liberdade
+LINHA 01;AZUL;VGO;Vergueiro;São Paulo;Subterrâneo;Liberdade
+LINHA 01;AZUL;CDU;Carandiru;São Paulo;Elevado;Santana
+LINHA 01;AZUL;JPA;Jardim São Paulo-Ayrton Senna;São Paulo;Subterrâneo;Santana
+LINHA 01;AZUL;TTE;Portuguesa-Tietê;São Paulo;Elevado;Santana
+LINHA 01;AZUL;SAN;Santana;São Paulo;Elevado;Santana
+LINHA 01;AZUL;ARV;Praça da Árvore;São Paulo;Subterrâneo;Saúde
+LINHA 01;AZUL;JUD;São Judas;São Paulo;Subterrâneo;Saúde
+LINHA 01;AZUL;SAU;Saúde-Ultrafarma;São Paulo;Subterrâneo;Saúde
+LINHA 01;AZUL;LIB;Japão-Liberdade;São Paulo;Subterrâneo;Sé
+LINHA 01;AZUL;BTO;São Bento;São Paulo;Subterrâneo;Sé
+LINHA 01;AZUL;PSE;Sé;São Paulo;Subterrâneo;Sé
+LINHA 01;AZUL;PIG;Parada Inglesa;São Paulo;Elevado;Tucuruvi
+LINHA 01;AZUL;TUC;Tucuruvi;São Paulo;Parcialmente subterrâneo;Tucuruvi
+LINHA 01;AZUL;ANR;Ana Rosa;São Paulo;Subterrâneo;Vila Mariana
+LINHA 01;AZUL;PSO;Paraíso;São Paulo;Subterrâneo;Vila Mariana
+LINHA 01;AZUL;SCZ;Santa Cruz;São Paulo;Subterrâneo;Vila Mariana
+LINHA 01;AZUL;VMN;Vila Mariana;São Paulo;Subterrâneo;Vila Mariana
+LINHA 02;VERDE;ANF;Anália Franco;São Paulo;Subterrâneo;Água Rasa
+LINHA 02;VERDE;SCA;Santa Clara;São Paulo;Subterrâneo;Água Rasa
+LINHA 02;VERDE;FND;Fernão Dias;São Paulo;Subterrâneo;Cangaíba
+LINHA 02;VERDE;TIC;Gabriela Mistral;São Paulo;Subterrâneo;Cangaíba
+LINHA 02;VERDE;GUI;Guilherme Giorgi;São Paulo;Subterrâneo;Carrão
+LINHA 02;VERDE;SIL;Santa Isabel;São Paulo;Subterrâneo;Carrão
+LINHA 02;VERDE;IMG;Santos-Imigrantes;São Paulo;Elevado;Curso
+LINHA 02;VERDE;AIP;Alto do Ipiranga;São Paulo;Subterrâneo;Ipiranga
+LINHA 02;VERDE;SAC;Sacomã;São Paulo;Subterrâneo;Ipiranga
+LINHA 02;VERDE;BGD;Brigadeiro;São Paulo;Subterrâneo;Jardim Paulista
+LINHA 02;VERDE;CLI;Clínicas;São Paulo;Subterrâneo;Jardim Paulista
+LINHA 02;VERDE;SNC;Consolação;São Paulo;Subterrâneo;Jardim Paulista
+LINHA 02;VERDE;TRI;Trianon-Masp;São Paulo;Subterrâneo;Jardim Paulista
+LINHA 02;VERDE;PEF;Penha de França;São Paulo;Subterrâneo;Penha
+LINHA 02;VERDE;PEN;Penha-Lojas Besni;São Paulo;Subterrâneo;Penha
+LINHA 02;VERDE;CRC;Cerro Corá;São Paulo;Subterrâneo;Perdizes
+LINHA 02;VERDE;SUM;Santuário Nossa Senhora de Fátima-Sumaré;São Paulo;Elevado;Perdizes
+LINHA 02;VERDE;VMD;Vila Madalena;São Paulo;Subterrâneo;Perdizes
+LINHA 02;VERDE;PGD;Ponte Grande;Guarulhos;Subterrâneo;Ponte Grande
+LINHA 02;VERDE;TTI;Tamanduateí;São Paulo;Elevado;Tamanduateí
+LINHA 02;VERDE;DUT;Dutra;Guarulhos;Subterrâneo;Vila Augusta
+LINHA 02;VERDE;VFO;Vila Formosa;São Paulo;Subterrâneo;Vila Formosa
+LINHA 02;VERDE;ANR;Ana Rosa;São Paulo;Subterrâneo;Vila Mariana
+LINHA 02;VERDE;CKB;Chácara Klabin;São Paulo;Subterrâneo;Vila Mariana
+LINHA 02;VERDE;PSO;Paraíso;São Paulo;Subterrâneo;Vila Mariana
+LINHA 02;VERDE;ARI;Aricanduva;São Paulo;Subterrâneo;Vila Matilde
+LINHA 02;VERDE;OFT;Orfanato;São Paulo;Subterrâneo;Vila Prudente
+LINHA 02;VERDE;VPT;Vila Prudente;São Paulo;Subterrâneo;Vila Prudente
+LINHA 03;VERMELHA;ARTE;Artur Alvim;São Paulo;No nível;Artur Alvim
+LINHA 03;VERMELHA;BFU;Palmeiras-Barra Funda;São Paulo;No nível;Barra Funda
+LINHA 03;VERMELHA;BEL;Belém;São Paulo;No nível;Belém
+LINHA 03;VERMELHA;BAS;Brás;São Paulo;Elevado;Brás
+LINHA 03;VERMELHA;BRE;Bresser-Mooca;São Paulo;No nível;Brás
+LINHA 03;VERMELHA;ITQ;Corinthians-Itaquera;São Paulo;Elevado;Itaquera
+LINHA 03;VERMELHA;PCA;Patriarca-Vila Ré;São Paulo;Parcialmente elevado;Penha
+LINHA 03;VERMELHA;PEN;Penha-Lojas Besni;São Paulo;No nível;Penha
+LINHA 03;VERMELHA;REP;República;São Paulo;Subterrâneo;República
+LINHA 03;VERMELHA;GBU;Anhangabaú;São Paulo;Subterrâneo;República e Sé
+LINHA 03;VERMELHA;DEO;Marechal Deodoro;São Paulo;Subterrâneo;Santa Cecília
+LINHA 03;VERMELHA;CEC;Santa Cecília;São Paulo;Subterrâneo;Santa Cecília
+LINHA 03;VERMELHA;PDS;Pedro II;São Paulo;Elevado;Sé
+LINHA 03;VERMELHA;PSE;Sé;São Paulo;Subterrâneo;Sé
+LINHA 03;VERMELHA;CAR;Carrão-Assaí Atacadista;São Paulo;No nível;Tatuapé
+LINHA 03;VERMELHA;TAT;Tatuapé;São Paulo;No nível;Tatuapé
+LINHA 03;VERMELHA;VPA;Guilhermina-Esperança;São Paulo;No nível;Vila Matilde
+LINHA 03;VERMELHA;VTD;Vila Matilde;São Paulo;No nível;Vila Matilde
+LINHA 04;AMARELA;LUZ;Luz;São Paulo;Subterrâneo;Bom Retiro
+LINHA 04;AMARELA;BUT;Butantã;São Paulo;Subterrâneo;Butantã
+LINHA 04;AMARELA;HIG;Higienópolis-Mackenzie;São Paulo;Subterrâneo;Consolação
+LINHA 04;AMARELA;PTA;Paulista-Pernambucanas;São Paulo;Subterrâneo;Consolação
+LINHA 04;AMARELA;FRE;Oscar Freire;São Paulo;Subterrâneo;Jardim Paulista
+LINHA 04;AMARELA;SPO;São Paulo-Morumbi;São Paulo;Subterrâneo;Morumbi
+LINHA 04;AMARELA;JCK;Chácara do Jockey;São Paulo;Subterrâneo;Parque Santos Dumont
+LINHA 04;AMARELA;FAL;Faria Lima;São Paulo;Subterrâneo;Pinheiros
+LINHA 04;AMARELA;FRA;Fradique Coutinho;São Paulo;Subterrâneo;Pinheiros
+LINHA 04;AMARELA;PIN;Pinheiros;São Paulo;Subterrâneo;Pinheiros
+LINHA 04;AMARELA;REP;República;São Paulo;Subterrâneo;República
+LINHA 04;AMARELA;TDS;Taboão da Serra;Taboão da Serra;Subterrâneo;Taboão da Serra
+LINHA 04;AMARELA;VSO;Vila Sônia-Professora Elisabeth Tenreiro;São Paulo;Subterrâneo;Vila Sônia
+LINHA 05;LILÁS;CPB;Campo Belo;São Paulo;Subterrânea;Campo Belo
+LINHA 05;LILÁS;CPL;Campo Limpo;São Paulo;Elevada;Campo Limpo
+LINHA 05;LILÁS;CPR;Capão Redondo;São Paulo;Elevada;Capão Redondo
+LINHA 05;LILÁS;SER;AACD-Servidor;São Paulo;Subterrânea;Moema
+LINHA 05;LILÁS;ECT;Eucaliptos;São Paulo;Subterrânea;Moema
+LINHA 05;LILÁS;MOE;Moema;São Paulo;Subterrânea;Moema
+LINHA 05;LILÁS;APN;Adolfo Pinheiro;São Paulo;Subterrânea;Santo Amaro
+LINHA 05;LILÁS;ABV;Alto da Boa Vista;São Paulo;Subterrânea;Santo Amaro
+LINHA 05;LILÁS;BGA;Borba Gato;São Paulo;Subterrânea;Santo Amaro
+LINHA 05;LILÁS;BRK;Brooklin;São Paulo;Subterrânea;Santo Amaro
+LINHA 05;LILÁS;LTR;Largo Treze;São Paulo;Subterrânea;Santo Amaro
+LINHA 05;LILÁS;STA;Santo Amaro;São Paulo;Elevada;Santo Amaro
+LINHA 05;LILÁS;GGR;Giovanni Gronchi;São Paulo;Elevada;Vila Andrade
+LINHA 05;LILÁS;VBE;Vila das Belezas;São Paulo;Elevada;Vila Andrade
+LINHA 05;LILÁS;CKB;Chácara Klabin;São Paulo;Subterrânea;Vila Mariana
+LINHA 05;LILÁS;HSP;Hospital São Paulo;São Paulo;Subterrânea;Vila Mariana
+LINHA 05;LILÁS;SCZ;Santa Cruz;São Paulo;Subterrânea;Vila Mariana
+LINHA 06;LARANJA;ABR;Água Branca;São Paulo;Subterrâneo;Barra Funda
+LINHA 06;LARANJA;SMA;Santa Marina;São Paulo;Subterrâneo;Barra Funda
+LINHA 06;LARANJA;BIX;14 Bis–Saracura;São Paulo;Subterrâneo;Bela Vista
+LINHA 06;LARANJA;TZM;Bela Vista;São Paulo;Subterrâneo;Bela Vista
+LINHA 06;LARANJA;BOM;Brasilândia;São Paulo;Subterrâneo;Brasilândia
+LINHA 06;LARANJA;PAC;FAAP–Pacaembu;São Paulo;Subterrâneo;Consolação
+LINHA 06;LARANJA;MKZ;Higienópolis-Mackenzie;São Paulo;Subterrâneo;Consolação
+LINHA 06;LARANJA;FGO;Freguesia do Ó;São Paulo;Subterrâneo;Freguesia do Ó
+LINHA 06;LARANJA;ELA;Itaberaba–Hospital Vila Penteado;São Paulo;Subterrâneo;Freguesia do Ó
+LINHA 06;LARANJA;JPP;João Paulo I;São Paulo;Subterrâneo;Freguesia do Ó
+LINHA 06;LARANJA;VCS;Maristela;São Paulo;Subterrâneo;Freguesia do Ó
+LINHA 06;LARANJA;JQM;São Joaquim;São Paulo;Subterrâneo;Liberdade
+LINHA 06;LARANJA;PZE;Perdizes;São Paulo;Subterrâneo;Perdizes
+LINHA 06;LARANJA;PUC;PUC–Cardoso de Almeida;São Paulo;Subterrâneo;Perdizes
+LINHA 06;LARANJA;SPA;SESC–Pompeia;São Paulo;Subterrâneo;Perdizes
+LINHA 07;RUBI;ABR;Água Branca;São Paulo;Elevado;Barra Funda
+LINHA 07;RUBI;BFU;Palmeiras–Barra Funda;São Paulo;Elevado;Barra Funda
+LINHA 07;RUBI;CAI;Caieiras;Caieiras;Elevado;Caieiras
+LINHA 07;RUBI;CLP;Campo Limpo Paulista;Campo Limpo Paulista;Elevado;Campo Limpo Paulista
+LINHA 07;RUBI;BTJ;Botujuru;Campo Limpo Paulista;Elevado;Francisco Morato
+LINHA 07;RUBI;FMO;Francisco Morato;Francisco Morato;Elevado;Francisco Morato
+LINHA 07;RUBI;BFI;Baltazar Fidélis;Franco da Rocha;Elevado;Franco da Rocha
+LINHA 07;RUBI;FDR;Franco da Rocha;Franco da Rocha;Elevado;Franco da Rocha
+LINHA 07;RUBI;JRG;Jaraguá;São Paulo;Elevado;Jaraguá
+LINHA 07;RUBI;JUN;Jundiaí;Jundiaí;Elevado;Jundiaí
+LINHA 07;RUBI;LPA;Lapa;São Paulo;Elevado;Lapa
+LINHA 07;RUBI;PQR;Piqueri;São Paulo;Elevado;Lapa
+LINHA 07;RUBI;PRU;Perus;São Paulo;Elevado;Perus
+LINHA 07;RUBI;VAU;Vila Aurora;São Paulo;Elevado;Perus
+LINHA 07;RUBI;PRT;Pirituba;São Paulo;Elevado;Pirituba
+LINHA 07;RUBI;VCL;Vila Clarice;São Paulo;Elevado;Pirituba
+LINHA 07;RUBI;VPL;Várzea Paulista;Várzea Paulista;Elevado;Várzea Paulista
+LINHA 08;DIAMANTE;BFU;Palmeiras–Barra Funda;São Paulo;Elevado;Barra Funda
+LINHA 08;DIAMANTE;AJO;Antônio João;Barueri;Elevado;Barueri
+LINHA 08;DIAMANTE;BRU;Barueri;Barueri;Elevado;Barueri
+LINHA 08;DIAMANTE;JBE;Jardim Belval;Barueri;Elevado;Barueri
+LINHA 08;DIAMANTE;JSI;Jardim Silveira;Barueri;Elevado;Barueri
+LINHA 08;DIAMANTE;JPR;Júlio Prestes;São Paulo;Elevado;Bom Retiro
+LINHA 08;DIAMANTE;CPB;Carapicuíba;Carapicuíba;Elevado;Carapicuíba
+LINHA 08;DIAMANTE;STE;Santa Terezinha;Carapicuíba;Elevado;Carapicuíba
+LINHA 08;DIAMANTE;ECD;Engenheiro Cardoso;Itapevi;Elevado;Itapevi
+LINHA 08;DIAMANTE;IPV;Itapevi;Itapevi;Elevado;Itapevi
+LINHA 08;DIAMANTE;JDI;Jandira;Jandira;Elevado;Jandira
+LINHA 08;DIAMANTE;SCO;Sagrado Coração;Jandira;Elevado;Jandira
+LINHA 08;DIAMANTE;DMO;Domingos de Moraes;São Paulo;Elevado;Lapa
+LINHA 08;DIAMANTE;LAP;Lapa - Senac;São Paulo;Elevado;Lapa
+LINHA 08;DIAMANTE;CSA;Comandante Sampaio;Osasco;Elevado;Osasco
+LINHA 08;DIAMANTE;GMC;General Miguel Costa;Osasco;Elevado;Osasco
+LINHA 08;DIAMANTE;OSA;Osasco;Osasco;Elevado;Osasco
+LINHA 08;DIAMANTE;PAL;Presidente Altino;Osasco;Elevado;Osasco
+LINHA 08;DIAMANTE;QTU;Quitaúna;Osasco;Elevado;Osasco
+LINHA 08;DIAMANTE;ILE;Imperatriz Leopoldina;São Paulo;Elevado;Vila Leopoldina
+LINHA 09;ESMERALDA;CEA;Ceasa;São Paulo;Elevado;Butantã
+LINHA 09;ESMERALDA;USP;Cidade Universitária;São Paulo;Elevado;Butantã
+LINHA 09;ESMERALDA;MVN;Bruno Covas/Mendes–Vila Natal;São Paulo;Elevado;Grajaú
+LINHA 09;ESMERALDA;GRA;Grajaú;São Paulo;Elevado;Grajaú
+LINHA 09;ESMERALDA;AUT;Autódromo;São Paulo;Elevado;Interlagos
+LINHA 09;ESMERALDA;INT;Primavera–Interlagos;São Paulo;Elevado;Interlagos
+LINHA 09;ESMERALDA;JAG;Vila Lobos–Jaguaré;São Paulo;Elevado;Jaguaré
+LINHA 09;ESMERALDA;MRB;Morumbi;São Paulo;Elevado;Morumbi
+LINHA 09;ESMERALDA;OSA;Osasco;Osasco;Elevado;Osasco
+LINHA 09;ESMERALDA;PAL;Presidente Altino;Osasco;Elevado;Osasco
+LINHA 09;ESMERALDA;CJD;Cidade Jardim;São Paulo;Elevado;Pinheiros
+LINHA 09;ESMERALDA;HBR;Hebraica–Rebouças;São Paulo;Elevado;Pinheiros
+LINHA 09;ESMERALDA;PIN;Pinheiros;São Paulo;Elevado;Pinheiros
+LINHA 09;ESMERALDA;GJT;Granja Julieta;São Paulo;Elevado;Santo Amaro
+LINHA 09;ESMERALDA;JOD;João Dias;São Paulo;Elevado;Santo Amaro
+LINHA 09;ESMERALDA;JUR;Jurubatuba;São Paulo;Elevado;Santo Amaro
+LINHA 09;ESMERALDA;SAM;Santo Amaro;São Paulo;Elevado;Santo Amaro
+LINHA 09;ESMERALDA;SOC;Socorro;São Paulo;Elevado;Socorro
+LINHA 09;ESMERALDA;VAG;Varginha;São Paulo;Elevado;Varginha
+LINHA 09;ESMERALDA;BRR;Berrini;São Paulo;Elevado;Vila Progredior
+LINHA 09;ESMERALDA;VOL;Vila Olímpia;São Paulo;Elevado;Vila Progredior
+LINHA 10;TURQUESA;BFU;Palmeiras-Barra Funda;São Paulo;Elevado;Barra Funda
+LINHA 10;TURQUESA;LUZ;Luz;São Paulo;Elevado;Bom Retiro
+LINHA 10;TURQUESA;BAS;Brás;São Paulo;Elevado;Brás
+LINHA 10;TURQUESA;CPV;Capuava;Mauá;Elevado;Capuava
+LINHA 10;TURQUESA;IPG;Ipiranga;São Paulo;Elevado;Ipiranga
+LINHA 10;TURQUESA;GPT;Guapituba;Mauá;Elevado;Maua
+LINHA 10;TURQUESA;MAU;Mauá;Mauá;Elevado;Mauá
+LINHA 10;TURQUESA;MOC;Juventus–Mooca;São Paulo;Elevado;Mooca
+LINHA 10;TURQUESA;RPI;Ribeirão Pires–Antônio Bespalec;Ribeirão Pires;Elevado;Ribeirão Pires
+LINHA 10;TURQUESA;RGS;Rio Grande da Serra;Rio Grande da Serra;Elevado;Rio Grande da Serra
+LINHA 10;TURQUESA;SAN;Prefeito Celso Daniel–Santo André;Santo André;Elevado;Santo André
+LINHA 10;TURQUESA;PSA;Prefeito Saladino;Santo André;Elevado;Santo André
+LINHA 10;TURQUESA;UTG;Utinga;Santo André;Elevado;Santo André
+LINHA 10;TURQUESA;SCS;São Caetano do Sul–Prefeito Walter Braido;São Caetano do Sul;Elevado;São Caetano
+LINHA 10;TURQUESA;TMD;Tamanduateí;São Paulo;Elevado;Tamanduateí
+LINHA 11;CORAL;BFU;Palmeiras–Barra Funda;São Paulo;Elevado;Barra Funda
+LINHA 11;CORAL;LUZ;Luz;São Paulo;Elevado;Bom Retiro
+LINHA 11;CORAL;BAS;Brás;São Paulo;Elevado;Brás
+LINHA 11;CORAL;EST;Estudantes;Mogi das Cruzes;Elevado;Estudantes
+LINHA 11;CORAL;AGN;Antônio Gianetti Neto;Ferraz de Vasconcelos;Elevado;Ferraz de Vasconcelos
+LINHA 11;CORAL;FVC;Ferraz de Vasconcelos;Ferraz de Vasconcelos;Elevado;Ferraz de Vasconcelos
+LINHA 11;CORAL;GUA;Guaianases;São Paulo;Elevado;Guaianases
+LINHA 11;CORAL;ITQ;Corinthians-Itaquera;São Paulo;Elevado;Itaquera
+LINHA 11;CORAL;DBO;Dom Bosco;São Paulo;Elevado;Itaquera
+LINHA 11;CORAL;JBO;José Bonifácio;São Paulo;Elevado;Itaquera
+LINHA 11;CORAL;BCB;Braz Cubas;Mogi das Cruzes;Elevado;Mogi das Cruzes
+LINHA 11;CORAL;JPB;Jundiapeba;Mogi das Cruzes;Elevado;Mogi das Cruzes
+LINHA 11;CORAL;MDC;Mogi das Cruzes;Mogi das Cruzes;Elevado;Mogi das Cruzes
+LINHA 11;CORAL;CVN;Calmon Viana;Poá;Elevado;Poá
+LINHA 11;CORAL;POÁ;Poá;Poá;Elevado;Poá
+LINHA 11;CORAL;SUZ;Suzano;Suzano;Elevado;Suzano
+LINHA 11;CORAL;TAT;Tatuapé;São Paulo;Elevado;Tatuapé
+LINHA 12;SAFIRA;BAS;Brás;São Paulo;Elevado;Brás
+LINHA 12;SAFIRA;ERM;Comendador Ermelino;São Paulo;Elevado;Ermelino Matarazzo
+LINHA 12;SAFIRA;EGO;Engenheiro Goulart;São Paulo;Elevado;Ermelino Matarazzo
+LINHA 12;SAFIRA;JHE;Jardim Helena–Vila Mara;São Paulo;Elevado;Ermelino Matarazzo
+LINHA 12;SAFIRA;USL;USP Leste;São Paulo;Elevado;Ermelino Matarazzo
+LINHA 12;SAFIRA;ITI;Itaim Paulista;São Paulo;Elevado;Itaim Paulista
+LINHA 12;SAFIRA;JRO;Jardim Romano;São Paulo;Elevado;Itaim Paulista
+LINHA 12;SAFIRA;ARC;Aracaré;Itaquaquecetuba;Elevado;Itaquaquecetuba
+LINHA 12;SAFIRA;EMF;Engenheiro Manoel Feio;Itaquaquecetuba;Elevado;Itaquaquecetuba
+LINHA 12;SAFIRA;IQC;Itaquaquecetuba;Itaquaquecetuba;Elevado;Itaquaquecetuba
+LINHA 12;SAFIRA;CVN;Calmon Viana;Poá;Elevado;Poá
+LINHA 12;SAFIRA;SMP;São Miguel Paulista;São Paulo;Elevado;São Miguel Paulista
+LINHA 12;SAFIRA;TAT;Tatuapé;São Paulo;Elevado;Tatuapé
+LINHA 13;JADE;BFU;Palmeiras–Barra Funda;São Paulo;Elevado;Barra Funda
+LINHA 13;JADE;LUZ;Luz;São Paulo;Elevado;Bom Retiro
+LINHA 13;JADE;BAS;Brás;São Paulo;Elevado;Brás
+LINHA 13;JADE;AGU;Aeroporto–Guarulhos;Guarulhos;Elevado;Guarulhos
+LINHA 13;JADE;GCE;Guarulhos–Cecap;Guarulhos;Elevado;Guarulhos
+LINHA 15;PRATA;CDT;Cidade Tiradentes;São Paulo;Elevado;Cidade Tiradentes
+LINHA 15;PRATA;HCT;Hospital Cidade Tiradentes;São Paulo;Elevado;Cidade Tiradentes
+LINHA 15;PRATA;MBK;Jardim Pedra Branca;São Paulo;Elevado;Cidade Tiradentes
+LINHA 15;PRATA;JEQ;Boa Esperança;São Paulo;Elevado;Iguatemi
+LINHA 15;PRATA;JPS;Jacu-Pêssego;São Paulo;Elevado;Iguatemi
+LINHA 15;PRATA;ESM;Jardim Marilu;São Paulo;Elevado;Iguatemi
+LINHA 15;PRATA;IPG;Ipiranga;São Paulo;Elevado;Ipiranga
+LINHA 15;PRATA;CAD;Camilo Haddad;São Paulo;Elevado;São Lucas
+LINHA 15;PRATA;ORA;Oratório;São Paulo;Elevado;São Lucas
+LINHA 15;PRATA;SLU;São Lucas;São Paulo;Elevado;São Lucas
+LINHA 15;PRATA;FJT;Fazenda da Juta;São Paulo;Elevado;São Mateus
+LINHA 15;PRATA;IGT;Jardim Colonial;São Paulo;Elevado;São Mateus
+LINHA 15;PRATA;SMT;São Mateus;São Paulo;Elevado;São Mateus
+LINHA 15;PRATA;JPL;Jardim Planalto;São Paulo;Elevado;Sapopemba
+LINHA 15;PRATA;SEIVA;Sapopemba;São Paulo;Elevado;Sapopemba
+LINHA 15;PRATA;VTL;Vila Tolstói;São Paulo;Elevado;Sapopemba
+LINHA 15;PRATA;DE;Vila União;São Paulo;Elevado;Sapopemba
+LINHA 15;PRATA;VPM;Vila Prudente;São Paulo;Elevado;Vila Prudente
+LINHA 17;OURO;BPA;Brooklin Paulista;São Paulo;Elevado;Brooklin
+LINHA 17;OURO;CGN;Aeroporto de Congonhas;São Paulo;Elevado;Campo Belo
+LINHA 17;OURO;CBM;Campo Belo;São Paulo;Elevado;Campo Belo
+LINHA 17;OURO;VJD;Vereador José Diniz;São Paulo;Elevado;Campo Belo
+LINHA 17;OURO;JAP;Washington Luís;São Paulo;Elevado;Campo Belo
+LINHA 17;OURO;CZD;Chucri Zaidan;São Paulo;Elevado;Itaim Bibi
+LINHA 17;OURO;VCD;Vila Cordeiro;São Paulo;Elevado;Itaim Bibi
+LINHA 17;OURO;CLE;Cidade Leonor;São Paulo;Elevado;Jabaquara
+LINHA 17;OURO;HSB;Hospital Sabóia;São Paulo;Elevado;Jabaquara
+LINHA 17;OURO;JBM;Jabaquara-Comitê Paralímpico Brasileiro;São Paulo;Elevado;Jabaquara
+LINHA 17;OURO;BAB;Vila Babilônia;São Paulo;Elevado;Jabaquara
+LINHA 17;OURO;VPI;Vila Paulista;São Paulo;Elevado;Jabaquara
+LINHA 17;OURO;AMR;Américo Maurano;São Paulo;Elevado;Morumbi
+LINHA 17;OURO;MOB;Morumbi;São Paulo;Elevado;Morumbi
+LINHA 17;OURO;PSP;Paraisópolis;São Paulo;Elevado;Morumbi
+LINHA 17;OURO;PNB;Panamby;São Paulo;Elevado;Vila Andrade
